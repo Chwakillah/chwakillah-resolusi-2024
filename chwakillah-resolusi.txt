@@ -2,4 +2,5 @@ chwakillah resolusi, mastering in react js and tailwaind, node js. Belajar bahas
 tiktok on web dev
 belajar struktur data
 belajar laravel
+belajar tailwaind
 - belajar py
